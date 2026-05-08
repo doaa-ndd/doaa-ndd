@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hey there, I'm Doaa
 
-<!--
-**doaa-ndd/doaa-ndd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about technology, learning, and building my future as a developer.
+> “Learning never exhausts the mind.” — Leonardo da Vinci
+---
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an ambitious computer science student exploring different areas of IT to discover my path.
+
+I learn by doing: practicing, experimenting, breaking things, and rebuilding them better.
+
+I’m currently diving into:
+- 🛡️ Cybersecurity basics (networking, OS, system security)
+- 🌐 Web development (HTML, CSS, SQL)
+- 💻 Programming (C & Python)
+- 🧠 Problem solving & algorithms
+
+Every new topic I explore helps me understand what I truly want to learn more 😄.
+
+---
+
+## 💻 Skills
+
+🔥 Programming & Logic:
+- C
+- Python
+- Algorithms & Problem Solving
+
+🌐 Web:
+- HTML
+- CSS
+- SQL
+
+---
+
+## 🛠️ Tools I Use
+
+- VS Code
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Cybersecurity fundamentals 🛡️
+- Networking 🌐
+- Operating Systems ⚙️
+- Web Development 💻
+- Databases 📊
+- Python 🐍
+
+---
+
+## 🚧 Status
+
+Still exploring, still learning, still building.  
+Trying things out 🚀
+
+---
+
