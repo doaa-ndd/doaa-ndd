@@ -1,7 +1,9 @@
 # 👋 Hey there, I'm Doaa
 
 🚀 Passionate about technology, learning, and building my future as a developer.
-> “Learning never exhausts the mind.” — Leonardo da Vinci
+
+Every new topic I explore helps me understand what I truly want to learn more 😄.
+
 ---
 
 ## 🌱 About Me
@@ -16,7 +18,7 @@ I’m currently diving into:
 - 💻 Programming (C & Python)
 - 🧠 Problem solving & algorithms
 
-Every new topic I explore helps me understand what I truly want to learn more 😄.
+
 
 ---
 
