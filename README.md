@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Doaa
+# 👋 Hey, I'm Doaa
 
 🚀 Passionate about technology, learning, and building my future as a developer.
 
